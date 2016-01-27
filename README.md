@@ -1,5 +1,7 @@
 # About
 
+Копия репозитория с исходным кодом демо-приложений под OpenGL от Tomdalling для разбора и экспериментов. Далее по тексту описание от оргинала:
+
 This is a repository of open-source code to accompany a series of OpenGL articles on
 http://tomdalling.com/
 
